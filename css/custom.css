@@ -1,6 +1,12 @@
 .bgtext{
 font-family: "Oswald", "sans-serif"
 }
+
+.importantVid{
+  height: 1050px !important; 
+  position: relative !important; 
+}
+
 body{
     background-color: blanchedalmond;
 }
@@ -13,11 +19,6 @@ body{
 }
 .darken-grey-text {
     color: #2E2E2E;
-}
-
-.importantVid{
-  height: 1050px !important; 
-  position: relative !important; 
 }
 
 .inactiveLink {
