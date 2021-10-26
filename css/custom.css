@@ -15,6 +15,11 @@ body{
     color: #2E2E2E;
 }
 
+.importantVid{
+  height: 1050px !important; 
+  position: relative !important; 
+}
+
 .inactiveLink {
     pointer-events: none;
     cursor: default;
