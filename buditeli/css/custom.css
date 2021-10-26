@@ -4,6 +4,12 @@ font-family: "Oswald", "sans-serif"
 body{
     background-color: blanchedalmond;
 }
+
+.importantVid{
+  height: 1050px !important; 
+  position: relative !important; 
+}
+
 /* Section */
 .section {
   clear: both;
